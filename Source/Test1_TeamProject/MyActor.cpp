@@ -22,4 +22,4 @@ void AMyActor::Tick(float DeltaTime)
 
 }
 
-//푸시하기 전에 다시 바꿔서 저장
+//팀원들의 변경사항과 상관없이 난 나의 분량을 했다.
