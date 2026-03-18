@@ -22,4 +22,8 @@ void AMyActor::Tick(float DeltaTime)
 
 }
 
+<<<<<<< HEAD
 //푸시하기 전에 다시 바꿔서 저장
+=======
+//팀원의 열일
+>>>>>>> Release
