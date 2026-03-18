@@ -13,7 +13,7 @@ void AMyActor::BeginPlay()
 	Super::BeginPlay();
 
 	//UE_LOG(LogTemp, Warning, TEXT("AMyyActor has begun play!"));
-	UE_LOG(LogTemp, Warning, TEXT("AMyyActor has begun play~~"));
+	UE_LOG(LogTemp, Warning, TEXT("AMyyActor has begun play!!!"));
 
 	
 }
