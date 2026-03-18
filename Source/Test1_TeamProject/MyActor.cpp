@@ -11,7 +11,6 @@ AMyActor::AMyActor()
 void AMyActor::BeginPlay()
 {
 	Super::BeginPlay();
-
 	UE_LOG(LogTemp, Warning, TEXT("AMyyActor has begun play!"));
 	
 }
@@ -23,3 +22,4 @@ void AMyActor::Tick(float DeltaTime)
 
 }
 
+//푸시하기 전에 다시 바꿔서 저장
